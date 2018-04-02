@@ -15,8 +15,8 @@ In 1995, Java was released by Sun Mircosystems' _(now known as Orcale Corporatio
 
 ### Resources
 
-University of Helsinki's MOOC online course
+[university of helsinki's mooc online course](https://materiaalit.github.io/2013-oo-programming/part1/week-1/)
 
 # To start
 
-[install java]: https://www.java.com/en/download/help/download_options.xml
+[install java](https://www.java.com/en/download/help/download_options.xml)
