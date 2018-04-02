@@ -19,4 +19,4 @@ In 1995, Java was released by Sun Mircosystems' _(now known as Orcale Corporatio
 
 # To start
 
-[install java](https://www.java.com/en/download/help/download_options.xml)
+[install java here!å](https://www.java.com/en/download/help/download_options.xml)
